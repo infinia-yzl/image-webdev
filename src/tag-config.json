@@ -4,8 +4,29 @@
       "name": "fe",
       "title": "Frontend Technologies",
       "description": "A comprehensive list of tools, frameworks, and libraries used in modern frontend web development. This includes JavaScript frameworks, UI libraries, meta-frameworks, and other technologies that enable developers to build interactive and responsive user interfaces for web applications."
+    },
+    {
+      "name": "be",
+      "title": "Backend Technologies",
+      "description": "A comprehensive list of tools, frameworks, and libraries used in modern backend web development. This includes server-side technologies, databases, and other tools that enable developers to build scalable and performant web applications."
+    },
+    {
+      "name": "fs",
+      "title": "Fullstack Technologies",
+      "description": "A comprehensive list of frameworks and platforms that provide end-to-end solutions for web application development, covering both frontend and backend aspects. These technologies enable developers to build complete web applications using a single, integrated stack."
     }
   ],
   "version": [],
-  "general": []
+  "general": [
+    {
+      "name": "befw",
+      "title": "Backend Frameworks",
+      "description": "Server-side frameworks used to build the core logic and structure of web applications."
+    },
+    {
+      "name": "db",
+      "title": "Databases and Persistence",
+      "description": "Systems and technologies used for storing, retrieving, and managing data in web applications."
+    }
+  ]
 }

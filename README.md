@@ -5,8 +5,13 @@
 
 This repository contains a curated collection of images related to web development technologies, frameworks, and tools. The images are sourced from official websites and documentation of various web development technologies. This repository was created using the image-set template repository v2.1.0.
 
+The list of images and technologies are incomplete and will be updated over time.
+Help us by contributing to this repository.
+
 ## Disclaimer
 **ALWAYS HAVE A BACKUP OF YOUR IMAGES OUTSIDE THIS PROJECT. THE SCRIPTS IN THIS PROJECT WILL MODIFY YOUR IMAGES.**
+
+Please note that this repository is not affiliated with any of the web development technologies, frameworks, or tools. The images are used for educational and informational purposes only.
 
 ## License
 The code in this project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
