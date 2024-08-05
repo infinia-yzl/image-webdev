@@ -1,36 +1,205 @@
 [
   {
-    "filename": "hero2.webp",
+    "filename": "fe/alpine.webp",
     "tags": [
-      "people",
-      "1_0_0"
+      "fe"
     ],
-    "label": "Handsome Hero"
+    "label": "Alpine.js"
   },
   {
-    "filename": "mecha/mecha1.webp",
+    "filename": "fe/foundation.webp",
     "tags": [
-      "tech",
-      "1_1_0"
+      "fe"
     ],
-    "label": "Flying Mecha"
+    "label": "Foundation"
   },
   {
-    "filename": "hero1.webp",
+    "filename": "fe/ionic.webp",
     "tags": [
-      "people",
-      "hq"
+      "fe"
     ],
-    "label": "Super Handsome Blonde Hero"
+    "label": "Ionic"
   },
   {
-    "filename": "hero3.webp",
-    "tags": [],
+    "filename": "fe/meteor.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Meteor"
+  },
+  {
+    "filename": "fe/nextjs.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Next.js"
+  },
+  {
+    "filename": "fe/quasar.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Quasar"
+  },
+  {
+    "filename": "fe/qwik.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Qwik"
+  },
+  {
+    "filename": "fe/semantic.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Semantic UI"
+  },
+  {
+    "filename": "fe/stencil.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Stencil"
+  },
+  {
+    "filename": "fe/svelte.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Svelte"
+  },
+  {
+    "filename": "fe/angular.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Angular"
+  },
+  {
+    "filename": "fe/astro.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Astro"
+  },
+  {
+    "filename": "fe/aurelia.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Aurelia"
+  },
+  {
+    "filename": "fe/cyclejs.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Cycle.js"
+  },
+  {
+    "filename": "fe/ember.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Ember.js"
+  },
+  {
+    "filename": "fe/framework7.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Framework7"
+  },
+  {
+    "filename": "fe/gatsby.webp",
+    "tags": [
+      "fe"
+    ],
     "label": ""
   },
   {
-    "filename": "mecha/mecha2.webp",
-    "tags": [],
-    "label": ""
+    "filename": "fe/jquery.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "JQuery"
+  },
+  {
+    "filename": "fe/lit.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Lit"
+  },
+  {
+    "filename": "fe/marko.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Marko"
+  },
+  {
+    "filename": "fe/mithril.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Mithril"
+  },
+  {
+    "filename": "fe/nuxt.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Nuxt.js"
+  },
+  {
+    "filename": "fe/preact.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Preact"
+  },
+  {
+    "filename": "fe/react.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "React"
+  },
+  {
+    "filename": "fe/remix.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Remix"
+  },
+  {
+    "filename": "fe/riot.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Riot.js"
+  },
+  {
+    "filename": "fe/solidjs.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Solid.js"
+  },
+  {
+    "filename": "fe/stimulus.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Stimulus"
+  },
+  {
+    "filename": "fe/vue.webp",
+    "tags": [
+      "fe"
+    ],
+    "label": "Vue.js"
   }
 ]

@@ -1,53 +1,11 @@
 {
   "subject": [
     {
-      "name": "nature",
-      "title": "Nature",
-      "description": "Images of natural landscapes, flora, or fauna"
-    },
-    {
-      "name": "tech",
-      "title": "Technology",
-      "description": "Images related to technological devices or concepts"
-    },
-    {
-      "name": "people",
-      "title": "People",
-      "description": "Images featuring individuals or groups of people"
+      "name": "fe",
+      "title": "Frontend Technologies",
+      "description": "A comprehensive list of tools, frameworks, and libraries used in modern frontend web development. This includes JavaScript frameworks, UI libraries, meta-frameworks, and other technologies that enable developers to build interactive and responsive user interfaces for web applications."
     }
   ],
-  "version": [
-    {
-      "name": "1_0_0",
-      "title": "Image set Version 1",
-      "description": "Images from Version 1"
-    },
-    {
-      "name": "1_1_0",
-      "title": "Image set Version 1.1",
-      "description": "Images from Version 1.1"
-    },
-    {
-      "name": "2_0_0",
-      "title": "Image set Version 2.0",
-      "description": "Images from Version 2"
-    }
-  ],
-  "general": [
-    {
-      "name": "hq",
-      "title": "High Quality",
-      "description": "Images with exceptional clarity and detail"
-    },
-    {
-      "name": "colorful",
-      "title": "Colorful",
-      "description": "Images with a vibrant color palette"
-    },
-    {
-      "name": "monochrome",
-      "title": "Black and White",
-      "description": "Monochrome images"
-    }
-  ]
+  "version": [],
+  "general": []
 }

@@ -251,13 +251,13 @@ async function compressImages(dir) {
           } else {
             console.log(`Skipping existing WebP file with metadata: ${relativePath}`);
           }
-        } else if (['.jpg', '.jpeg', '.png'].includes(ext) && !existingMetadata) {
+        } else if (['.jpg', '.jpeg', '.png', '.svg'].includes(ext) && !existingMetadata) {
           const outputPath = path.join(dir, `${path.parse(entry.name).name}.webp`);
           const outputRelativePath = path.relative(baseImageDir, outputPath);
 
           console.log(`Compressing: ${relativePath}`);
           await sharp(fullPath)
-            .webp({ quality: 80 })
+            .webp({ preset: 'icon' })
             .toFile(outputPath);
 
           console.log(`Compressed and saved: ${outputRelativePath}`);
