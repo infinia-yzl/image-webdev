@@ -1,6 +1,6 @@
 {
   "name": "image-webdev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A template containing a collection of web development tech images. Contributions are welcome!",
   "main": "src/index.js",
   "files": [
